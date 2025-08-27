@@ -10,7 +10,7 @@
 - Por el momento...
 
 ### 📂 Proyectos:
-- **VoiceGuard-Construction**: Proyecto en construcción, voy aplicando lo que aprendo.
+- **Koala Motors**: Proyecto en construcción.
 
 ### ✍️ Proceso de aprendizaje:
 - Online.
