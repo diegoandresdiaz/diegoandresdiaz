@@ -10,7 +10,7 @@
 - Por el momento...
 
 ### 📂 Proyectos:
-- **Koala Motors**: Proyecto en construcción.
+- **Koala Marketing**: Proyecto en construcción.
 
 ### ✍️ Proceso de aprendizaje:
 - Online.
